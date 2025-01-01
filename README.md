@@ -37,7 +37,7 @@ Leading the development of a play-to-earn blockchain game featuring:
 ![After Effects](https://img.shields.io/badge/-After%20Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white)
 ## 📫 Contact Me
 - 📍 Location: Sarıyer, Istanbul
-- 📧 Email: yusufanilyazicigmail.com
+- 📧 Email: yusufanilyazici@gmail.com
 - 📱 Phone: +90 553 849 59 61
 ## 🔗 Connect With Me
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/y4z1c1)
