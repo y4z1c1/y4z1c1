@@ -49,10 +49,10 @@ Leading the development of a play-to-earn blockchain game featuring:
 
 ## 📫 Contact Me
 - 📍 Location: Sarıyer, Istanbul
-- 📧 Email: yusu****@gmail.com
-- 📱 Phone: +90 553 *** ** **
+- 📧 Email: yusufanilyazicigmail.com
+- 📱 Phone: +90 553 849 59 61
 
 ## 🔗 Connect With Me
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/Y4Z1C1)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/y4z1c1)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/yusuf-an%C4%B1l-yaz%C4%B1c%C4%B1-342672218/))
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)]([https://twitter.com/your-profile](https://twitter.com/1nternSITY))
