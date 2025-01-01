@@ -3,7 +3,7 @@ Blockchain & Full Stack Developer based in Istanbul, Turkey 🇹🇷
 ## 🎓 Education
 - **Boğaziçi University** - Computer Engineering (2021 - 2026)
 - **Sakarya Cevat Ayhan Science High School** (2017 - 2021)
-## 💼 Professional Experience
+## 💼 Experience
 ### Blockchain Developer at SuiCityP2E
 *August 2024 - Present*
 Leading the development of a play-to-earn blockchain game featuring:
