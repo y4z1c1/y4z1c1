@@ -1,6 +1,6 @@
 # yusuf anıl yazıcı
 
-**computer engineering student & blockchain developer**
+**computer engineering student**
 
 📍 sarıyer, istanbul  
 📧 yusufanilyazici@gmail.com  
