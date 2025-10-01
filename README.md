@@ -1,6 +1,6 @@
 # yusuf anıl yazıcı
 
-**computer engineering student**
+**senior computer engineering student**
 
 📍 sarıyer, istanbul  
 📧 yusufanilyazici@gmail.com  
